@@ -41,3 +41,6 @@ powerRight(right,100)
 time.sleep(0.2)
 
 stop(right)
+
+GPIO.cleanup()
+

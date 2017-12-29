@@ -23,3 +23,6 @@ GPIO.output(16,False)
 GPIO.output(18,False)
 
 GPIO.output(12,False)
+
+GPIO.cleanup()
+
